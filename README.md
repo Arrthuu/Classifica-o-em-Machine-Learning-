@@ -1,5 +1,5 @@
-Desafio: Preveja os usuários com alta chance de deixar seu Streaming
-## Contexto
+Desafio: Preveja os usuários com alta chance de deixar seu Streaming.
+## Contexto:
 
 Você trabalha em uma plataforma de streaming e a diretoria está preocupada com o alto índice de usuários cancelando as suas assinaturas. Eles acreditam que é possível prever se um usuário tem mais chance de deixar a plataforma antes que isso aconteça, e com base nessa informação tomar ações para reduzir o churn.
 
